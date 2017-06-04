@@ -1,7 +1,7 @@
 {
   "name": "gulp-breakdance",
   "description": "Gulp plugin for breakdance, the HTML-to-markdown converter for node.js.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/breakdance/gulp-breakdance",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "breakdance/gulp-breakdance",
@@ -31,11 +31,18 @@
   },
   "keywords": [
     "breakdance",
+    "conversion",
+    "convert",
+    "converter",
     "gulp",
     "gulpplugin",
     "html",
-    "table-of-contents",
-    "toc"
+    "html-to-markdown",
+    "html-to-md",
+    "markdown",
+    "md",
+    "to-markdown",
+    "to-md"
   ],
   "verb": {
     "toc": false,
